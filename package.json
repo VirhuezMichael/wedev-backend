@@ -4,7 +4,8 @@
   "description": "Server backend for mail service for <we.dev/>",
   "main": "app.js",
   "scripts": {
-    "node": "node ./server/app.js"
+    "node": "node ./server/app.js",
+    "start": "node ./server/app.js"
   },
   "author": "Virhuez Michael",
   "license": "ISC",
