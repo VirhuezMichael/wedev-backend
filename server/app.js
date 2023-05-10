@@ -90,5 +90,5 @@ app.post('/enviar-correo', (req, res) => {
 app.set('port', process.env.PORT || 3000); // Configuro puerto de servidor
 
 app.listen(app.get('port'), () => {
-    console.log(`Server on port ${app.get('port')}`)
+    console.log(`Server running on port ${app.get('port')}`)
 })
