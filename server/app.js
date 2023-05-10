@@ -21,7 +21,7 @@ app.use(bodyParser.json());
 // };
 
 const corsOptions = {
-  origin: 'https://wedev.netlify.app',
+  origin: 'https://wedev-sj.netlify.app',
   optionsSuccessStatus: 200
 };
 
