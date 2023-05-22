@@ -58,8 +58,8 @@ app.post('/enviar-correo', (req, res) => {
 
   // Configura el contenido del correo electrónico
   const mailOptions = {
-    from: 'virhuezmichael@gmail.com',
-    to: 'michvirh@gmail.com',
+    from: 'we.dev.sj@gmail.com',
+    to: 'we.dev.sj@gmail.com',
     subject: 'Formulario de contacto',
     html: `
       <h1>Formulario de contacto</h1>
