@@ -50,9 +50,9 @@ app.post('/enviar-correo', (req, res) => {
     // Por ejemplo, para usar el servicio de correo electrónico de Gmail:
     service: 'gmail',
     auth: {
-      user: 'michvirh@gmail.com',
+      user: 'we.dev.sj@gmail.com',
       // user: 'securesally@gmail.com',
-      pass: 'grasmrzpnapdbmii',
+      pass: 'eontycjtctcsqajm',
     },
   });
 
